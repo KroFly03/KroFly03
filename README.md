@@ -1,4 +1,8 @@
-## Hello👋, my name is Dima! I`m a beginner python backend developer
+## Hello👋
+
+## My name is Dima! 
+
+## I`m a beginner python backend developer
 
 ---
 
