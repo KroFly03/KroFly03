@@ -1,6 +1,6 @@
-# Hello👋, my name is Dima!
+## Hello👋, my name is Dima
 
-## I`m a beginner python backend developer.
+### I`m a beginner python backend developer
 
 ### 🤝 Social media:
 
