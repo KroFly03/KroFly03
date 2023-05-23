@@ -1,11 +1,3 @@
-## Hello👋
-
-## My name is Dima! 
-
-## I`m a beginner python backend developer
-
----
-
 ### 🤝 Social media:
 
   <div id="badges">
