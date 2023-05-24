@@ -2,7 +2,7 @@
 
   <div id="badges">
     <a href="https://t.me/krofly03" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram group" />
     </a>
   </div>
 
@@ -28,9 +28,9 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="insomnia" alt="insomnia" width="60" height="60"/>&nbsp;
 </div>
 
 --- 
