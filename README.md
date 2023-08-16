@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp
-  <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" title="redis" alt="redis" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="60" height="60"/>&nbsp
   <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" title="celery" alt="celery" width="60" height="60"/>&nbsp
 </div>
 
