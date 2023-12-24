@@ -2,7 +2,10 @@
 
   <div id="badges">
     <a href="https://t.me/krofly03" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram group" />
+      <img src="https://github.com/KroFly03/KroFly03/blob/main/telegram_account_logo.png" width="60" height="60" alt="telegram group" />
+    </a>
+    <a href="https://t.me/krofly03" target="_blank">
+      <img src="https://github.com/KroFly03/KroFly03/blob/main/python_thoughts_logo.png" width="60" height="60" alt="telegram group" />
     </a>
   </div>
 
