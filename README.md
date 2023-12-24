@@ -1,11 +1,13 @@
 ### 🤝 Социальные медиа:
 
-<div id="badges" style="display: flex; gap: 20px;">
-  <a href="https://t.me/krofly03" target="_blank">
-    <img src="https://github.com/KroFly03/KroFly03/blob/main/telegram_account_logo.png" width="60" height="60" alt="telegram group" style="border-radius: 50%; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);">
+<div id="badges">
+  <a href="https://t.me/krofly03">
+    <img src="https://github.com/KroFly03/KroFly03/blob/main/telegram_account_logo.png" width="60" height="60" alt="telegram account">
+    <figcaption>Телеграм</figcaption>
   </a>
-  <a href="https://t.me/python_thoughts" target="_blank">
-    <img src="https://github.com/KroFly03/KroFly03/blob/main/python_thoughts_logo.png" width="60" height="60" alt="telegram group" style="border-radius: 50%; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);">
+  <a href="https://t.me/python_thoughts">
+    <img src="https://github.com/KroFly03/KroFly03/blob/main/python_thoughts_logo.png" width="60" height="60" alt="telegram channel"">
+    <figcaption>Личный блог</figcaption>
   </a>
 </div>
 
