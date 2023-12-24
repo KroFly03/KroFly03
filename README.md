@@ -1,15 +1,20 @@
 ### 🤝 Социальные медиа:
 
-<div id="badges" style="display: flex; gap: 20px; margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://t.me/krofly03" style="text-decoration: none; color: black; text-align: center; display: inline-block;">
-    <img src="https://github.com/KroFly03/KroFly03/blob/main/telegram_account_logo.png" width="60" height="60" alt="telegram account" style="border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
-    <div style="font-weight: bold;">Телеграм</div>
-  </a>
-  <a href="https://t.me/python_thoughts" style="text-decoration: none; color: black; text-align: center; display: inline-block;">
-    <img src="https://github.com/KroFly03/KroFly03/blob/main/python_thoughts_logo.png" width="60" height="60" alt="telegram channel" style="border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
-    <div style="font-weight: bold;">Личный блог</div>
-  </a>
+<div id="badges" style="display: flex; gap: 20px; margin-top: 20px; margin-bottom: 20px; text-align: center;">
+  <div>
+    <a href="https://t.me/krofly03" style="text-decoration: none; color: black; display: block;">
+      <img src="https://github.com/KroFly03/KroFly03/blob/main/telegram_account_logo.png" width="60" height="60" alt="telegram account" style="border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
+      <div style="font-weight: bold;">Телеграм</div>
+    </a>
+  </div>
+  <div>
+    <a href="https://t.me/python_thoughts" style="text-decoration: none; color: black; display: block;">
+      <img src="https://github.com/KroFly03/KroFly03/blob/main/python_thoughts_logo.png" width="60" height="60" alt="telegram channel" style="border-radius: 50%; overflow: hidden; margin-bottom: 5px;">
+      <div style="font-weight: bold;">Личный блог</div>
+    </a>
+  </div>
 </div>
+
 
 ---
 
