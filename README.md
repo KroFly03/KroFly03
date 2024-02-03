@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="60" height="60"/>&nbsp
   <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" title="celery" alt="celery" width="60" height="60"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" title="rabbitmq" alt="rabbitmq" width="60" height="60"/>&nbsp
+  <br>
+  <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" title="graphql" alt="graphql" width="60" height="60"/>&nbsp
 </div>
 
 ---
@@ -39,6 +41,8 @@
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="insomnia" alt="insomnia" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4" title="ansible" alt="ansible" width="60" height="60"/>&nbsp
 </div>
 
 --- 
