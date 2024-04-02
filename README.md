@@ -4,9 +4,6 @@
   <a href="https://t.me/krofly03">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram account">
   </a>
-  <a href="https://t.me/python_thoughts">
-    <img src="https://github.com/KroFly03/KroFly03/blob/main/python_thoughts_logo.png" width="60" height="60" alt="telegram channel"">
-  </a>
 </div>
 
 
